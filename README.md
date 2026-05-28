@@ -41,6 +41,3 @@ To ensure enterprise observability and maintain audit trails, the application im
 * **Predictive Compute:** Scikit-Learn, Joblib
 * **User Interface:** Streamlit (Forced to responsive wide-screen topology with custom Times New Roman typography stylesheets)
 * **Storage Backend:** SQLite3 Relational Engine
-```bash
-git clone [https://github.com/YOUR_USERNAME/nit-delhi-smart-grid.git](https://github.com/YOUR_USERNAME/nit-delhi-smart-grid.git)
-cd nit-delhi-smart-grid
